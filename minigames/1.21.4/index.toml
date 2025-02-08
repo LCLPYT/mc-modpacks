@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/combat-control.pw.toml"
-hash = "41ae43179e7cc6bca460569d4b453b7aa0defb12268c30ab80d335e8fbfa099a"
+hash = "ed00d6609d8a1faf91271f4b84528c11d9bde43b82245d0eddbd230c619ee4da"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/notica.pw.toml"
-hash = "8b68968c4df951563dae766f193e3eb86b5a06c7de5544e980ff226b97bc5c96"
+hash = "7410a8944d2f7b5ced931236b84022b8c7afb089e84c6951cc65b7bf1cf9a458"
 metafile = true
 
 [[files]]

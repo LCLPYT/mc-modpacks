@@ -1,6 +1,6 @@
 name = "Combat Control"
 filename = "combat-control-1.9.0+1.21.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/WJyo6fB5/versions/JP1qksHo/combat-control-1.9.0%2B1.21.4.jar"

@@ -1,0 +1,12 @@
+[[ignore]]
+	file = "config/mc-option-sync/*"
+
+[[sync]]
+	file = "options.txt"
+	module = "common"
+[[sync]]
+	file = "servers.dat"
+	module = "common"
+[[sync]]
+	file = "config/**/*.{json,toml,properties,cfg,json5}"
+	module = "minigames"

@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/creative-power.pw.toml"
-hash = "4ca6d7d55a2555dd3b8ca09e32044eb7f847505ead11015b111320a1c64c35bc"
+hash = "0b1fdce9cca96764c1c9238ce5af641e77358ae5e7e23ddd025c21c17692350a"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/fantasy.pw.toml"
-hash = "3abc9592c816339a519601f1c01fbbbf4557520de71db601d938e784a250758f"
+hash = "fa5efdb92b2aad5d84b224bc6351dff7d4780561bd294e443fcb0bbe5e24c7eb"
 metafile = true
 
 [[files]]
@@ -112,12 +112,12 @@ metafile = true
 
 [[files]]
 file = "mods/kibu-world-api.pw.toml"
-hash = "7fae084b865daa8da6055f9421b0f74ecee9993a79f73f52684f252ff190e7ad"
+hash = "ea6a8543a21218f3a628ac61945163769cbe88ca9e35004c843f926eb1bd265a"
 metafile = true
 
 [[files]]
 file = "mods/kibu.pw.toml"
-hash = "fa24d2ae9ed8e96af4e7b6d918a2a85667a97269d882416094c0ccc28d261a8f"
+hash = "dcada4a5d07d6ab51b40b698d608169939e6983367e81d6d7322b91578f25afd"
 metafile = true
 
 [[files]]
@@ -142,12 +142,12 @@ metafile = true
 
 [[files]]
 file = "mods/mc-debug-sender-impl.pw.toml"
-hash = "cbc651aa1555c3ee98d18c4f9f828522f7ac52af4df244e44ea25258411d17f7"
+hash = "8640146e02ba99af1e70217a0364b602d14d15b963f3a317ac3424271a29ba49"
 metafile = true
 
 [[files]]
 file = "mods/mc-option-sync.pw.toml"
-hash = "9309367b222ea23b15d0f692c278c63f74cab7c4732d81b0dcea0fdc1f4bc10c"
+hash = "793a9d8a3319334b9c4b93ba833fd99a1330c7c3be40cd3d99169c85e945fb66"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/pal.pw.toml"
-hash = "9ee15f36058a030fc2a701585214e9ad81479c1d4fa080f1ab2fd5a874f60cbf"
+hash = "347f816c90c0cd4e76db27868c01900e5db9f795816098cc516e696d47e7dcd5"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/ruler.pw.toml"
-hash = "1ea8a2087073f0ecee4529c7143ea5cc1042cd149c39d512a57d26fb0c3d1fcf"
+hash = "e228cf7508b18a1ee186f0cd2a8d282e1df008e229bd994096bb7f52474767e0"
 metafile = true
 
 [[files]]

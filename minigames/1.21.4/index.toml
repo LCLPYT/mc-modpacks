@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/mc-option-sync.pw.toml"
-hash = "9ab22716b7862b93d0280bdc49a60829a0db3efcbfcaa9ed096b79a58b6764b4"
+hash = "e267f7f9c4b0011bf78c448b9dfce311843c8ebbb890835e3c937ec78c580b3f"
 metafile = true
 
 [[files]]

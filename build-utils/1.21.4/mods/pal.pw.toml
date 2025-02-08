@@ -1,0 +1,7 @@
+name = "pal"
+filename = "pal-0.13.0+1.21.4.jar"
+
+[download]
+url = "https://github.com/LCLPYT/pal/releases/download/0.13.0%2B1.21.4/pal-0.13.0+1.21.4.jar"
+hash-format = "sha256"
+hash = "376cb46d952b1cc6a333ed74faba7dbef34de2a53d7b12f157117a94471913a3"

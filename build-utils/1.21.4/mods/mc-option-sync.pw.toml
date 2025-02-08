@@ -1,0 +1,7 @@
+name = "mc-option-sync"
+filename = "mc-option-sync-0.1.1+1.21.4.jar"
+
+[download]
+url = "https://github.com/LCLPYT/mc-option-sync/releases/download/0.1.1%2B1.21.4/mc-option-sync-0.1.1+1.21.4.jar"
+hash-format = "sha256"
+hash = "e9c2671e3269cb70644c6f12407810b34095ec0c79e79d42a95c72ec612b2fe0"

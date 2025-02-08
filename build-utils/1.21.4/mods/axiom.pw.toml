@@ -1,0 +1,13 @@
+name = "Axiom"
+filename = "Axiom-4.5.3-for-MC1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N6n5dqoA/versions/WTVYndOG/Axiom-4.5.3-for-MC1.21.4.jar"
+hash-format = "sha512"
+hash = "77df91ba4b0b89ee6905649cd36105ee7cbe03d6c227d5c56ac025ee8c3f4962d4ddbbfaf434711e4d49157f947c6183a1005899ef119665afacaaa9a2752637"
+
+[update]
+[update.modrinth]
+mod-id = "N6n5dqoA"
+version = "WTVYndOG"

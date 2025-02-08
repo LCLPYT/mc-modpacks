@@ -1,0 +1,7 @@
+name = "kibu"
+filename = "kibu-0.140.0+1.21.4.jar"
+
+[download]
+url = "https://github.com/LCLPYT/kibu/releases/download/0.140.0%2B1.21.4/kibu-0.140.0+1.21.4.jar"
+hash-format = "sha256"
+hash = "8afb890b36da370d3efe70a3071b0747dc1f6d8a9c86692ac70bac37338623fb"

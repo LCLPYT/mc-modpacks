@@ -1,0 +1,7 @@
+name = "ruler"
+filename = "ruler-0.1.2+1.21.jar"
+
+[download]
+url = "https://github.com/LCLPYT/ruler/releases/download/0.1.2%2B1.21/ruler-0.1.2+1.21.jar"
+hash-format = "sha256"
+hash = "4fcdba71956f231dfd09b5afbcb3b026f3813162024e772d71f08aa9d67cc253"

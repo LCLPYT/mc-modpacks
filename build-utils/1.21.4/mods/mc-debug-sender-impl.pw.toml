@@ -1,0 +1,7 @@
+name = "mc-debug-sender-impl"
+filename = "mc-debug-sender-impl-0.2.2+1.21.4.jar"
+
+[download]
+url = "https://github.com/LCLPYT/mc-debug-sender-impl/releases/download/0.2.2%2B1.21.4/mc-debug-sender-impl-0.2.2+1.21.4.jar"
+hash-format = "sha256"
+hash = "9e73e5e4287e9cc268691199a446c4d2e854410b856b4ebe73cb08e410ba17b6"

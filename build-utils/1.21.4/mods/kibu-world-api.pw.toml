@@ -1,0 +1,7 @@
+name = "kibu-world-api"
+filename = "kibu-world-api-0.6.3+1.21.3.jar"
+
+[download]
+url = "https://github.com/LCLPYT/kibu-world-api/releases/download/0.6.3%2B1.21.3/kibu-world-api-0.6.3+1.21.3.jar"
+hash-format = "sha256"
+hash = "63c239e027221f2c25ab7ef4fef2b09a7dee6918b3ef0b38904a6a99d24c72cc"

@@ -1,0 +1,7 @@
+name = "fantasy"
+filename = "fantasy-0.6.6+1.21.4.jar"
+
+[download]
+url = "https://github.com/LCLPYT/fantasy/releases/download/0.6.6%2B1.21.4/fantasy-0.6.6+1.21.4.jar"
+hash-format = "sha256"
+hash = "feb0d1d78aaaec27d7382d1bf8180ec29d504d00ceb0d7e40c8a63abe7c75465"

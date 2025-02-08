@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".mc-option-sync"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/betterf3.json"
 hash = "f912e676ef54f95f4cb204e695cd0f7653398367ec6ebb0e434e074500ecbf3b"
 
@@ -159,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/mc-option-sync.pw.toml"
-hash = "793a9d8a3319334b9c4b93ba833fd99a1330c7c3be40cd3d99169c85e945fb66"
+hash = "9ab22716b7862b93d0280bdc49a60829a0db3efcbfcaa9ed096b79a58b6764b4"
 metafile = true
 
 [[files]]

@@ -9,7 +9,7 @@ Available modpacks:
 ## Manage and maintain modpacks
 This project uses [Packwiz](https://packwiz.infra.link/) to manage the modpacks.
 
-### Add a mod from modrinth
+### Add a mod from Modrinth
 ```bash
 packwiz modrinth add sodium
 ```
@@ -24,5 +24,13 @@ packwiz github add https://github.com/LCLPYT/mc-option-sync
 
 ### Add a mod from some direct download URL
 ```bash
-# packwiz url add <mod id> <direct url>
+packwiz url add <mod id> <direct url>
 ```
+
+### Adding local files
+Just add any files to the modpack directory, as if it was the minecraft directory. Then refresh the index:
+```bash
+packwiz refresh
+```
+
+Files that should not be included in the modpack can be put in the `.packwizignore` file.

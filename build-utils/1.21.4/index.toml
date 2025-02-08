@@ -248,6 +248,10 @@ hash = "c9a5dca078d983e94d629ca4bf402fff78e364e5b5365ff43373d77eec268432"
 metafile = true
 
 [[files]]
+file = "resourcepacks/VanillaTweaks_r246108_MC1.21.x.zip"
+hash = "5472cba1e57b421fec35890153961b3c6934f9bacfe2293279c42ce242ba5b79"
+
+[[files]]
 file = "resourcepacks/programmer-art-fix.pw.toml"
 hash = "4f5345a5dd5308e399ffc47301f4945e495360af4347c10818746a0fc082ea41"
 metafile = true

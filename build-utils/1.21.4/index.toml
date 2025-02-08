@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "f912e676ef54f95f4cb204e695cd0f7653398367ec6ebb0e434e074500ecbf3b"
+
+[[files]]
+file = "config/combat-control/config.toml"
+hash = "8a49186a4e7220b90322a7379ca27e586d7d5a02076e0ea638b6dfa3ed205e0d"
+
+[[files]]
+file = "config/zoomify.json"
+hash = "599c800b5c2744bb83b972822c2dab5d313963e191872fd94b05be68d6a0dda2"
+
+[[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
 hash = "804ba022bacc16ffeda8588d4f19766cfb60acea47063d1a13b045d3acb39ae1"
 metafile = true

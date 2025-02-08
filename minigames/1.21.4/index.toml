@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "ATTRIBUTION.md"
+hash = "c39304be93be00ff91c00a1796aecfb0bec6eb9e9adf5178d2e3006c55eebcf3"
+
+[[files]]
+file = "config/betterf3.json"
+hash = "f912e676ef54f95f4cb204e695cd0f7653398367ec6ebb0e434e074500ecbf3b"
+
+[[files]]
+file = "config/combat-control/config.toml"
+hash = "8a49186a4e7220b90322a7379ca27e586d7d5a02076e0ea638b6dfa3ed205e0d"
+
+[[files]]
+file = "config/zoomify.json"
+hash = "599c800b5c2744bb83b972822c2dab5d313963e191872fd94b05be68d6a0dda2"
+
+[[files]]
+file = "icon.png"
+hash = "df0e22092281cc8c0c15da7a17f1ad30d5e1ee5cd2231b256178adf5db88af56"
+
+[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "b8e99cb5d0340da918037b444e1f106dbe4dc90d4efcd7780e7f6b4072116452"
 metafile = true

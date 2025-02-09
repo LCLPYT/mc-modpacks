@@ -5,10 +5,6 @@ file = ".mc-option-sync"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "ATTRIBUTION.md"
-hash = "c39304be93be00ff91c00a1796aecfb0bec6eb9e9adf5178d2e3006c55eebcf3"
-
-[[files]]
 file = "config/betterf3.json"
 hash = "f912e676ef54f95f4cb204e695cd0f7653398367ec6ebb0e434e074500ecbf3b"
 
@@ -23,6 +19,10 @@ hash = "e437b24b9fddfc0a4e4e88253bcdfbebadd27184bafdc9a677f5d1635d5559f3"
 [[files]]
 file = "config/zoomify.json"
 hash = "599c800b5c2744bb83b972822c2dab5d313963e191872fd94b05be68d6a0dda2"
+
+[[files]]
+file = "credits.txt"
+hash = "d2b8c1d953baf5d04f90dda1bd858fdb0dac34d3125b39da42708b9c8c454f90"
 
 [[files]]
 file = "icon.png"

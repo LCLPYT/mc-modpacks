@@ -22,7 +22,7 @@ hash = "599c800b5c2744bb83b972822c2dab5d313963e191872fd94b05be68d6a0dda2"
 
 [[files]]
 file = "credits.txt"
-hash = "d2b8c1d953baf5d04f90dda1bd858fdb0dac34d3125b39da42708b9c8c454f90"
+hash = "22a4032b9b7f6e50a89a4612f8b704de9f67b8169f0046fb466858567392a538"
 
 [[files]]
 file = "icon.png"
@@ -200,11 +200,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "6bbb37c5660507ec20891cee27f3627baf7b26f2ca8b55b415a5025830b39ba2"
-
-[[files]]
-file = "resourcepacks/VanillaTweaks_r246108_MC1.21.x.zip"
-hash = "5472cba1e57b421fec35890153961b3c6934f9bacfe2293279c42ce242ba5b79"
+hash = "db66d6e4d70b7de2e640351f3c6c23c0615cea4759f764daf0c77fcf6aff4a34"
 
 [[files]]
 file = "resourcepacks/programmer-art-fix.pw.toml"

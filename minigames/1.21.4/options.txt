@@ -1,5 +1,4 @@
 version:4189
-resourcePacks:["vanilla","fabric","file/VanillaTweaks_r246108_MC1.21.x.zip"]
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.disable_voice_chat:key.keyboard.unknown

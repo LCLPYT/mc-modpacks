@@ -6,13 +6,6 @@ Available modpacks:
 | LCLP's MiniGame Pack | Fabric | ✅     |
 | Builder Utils        | Fabric | ✅     |
 
-## Cloning the repository
-This repository utilizes [Git LFS](https://git-lfs.com/) for some files. Before cloning the repo, please make sure it is installed and initialized for your user:
-
-```bash
-git lfs install
-```
-
 ## Manage and maintain modpacks
 This project uses [Packwiz](https://packwiz.infra.link/) to manage the modpacks.
 
@@ -41,8 +34,6 @@ packwiz refresh
 ```
 
 Files that should not be included in the modpack can be put in the `.packwizignore` file.
-
-If you want to add .zip or .jar files, you need to add them manually with `git add -f <file.zip>`.
 
 ### Exporting the modpack
 You can export a modpack as `.mrpack` file:

@@ -14,7 +14,7 @@ hash = "8a49186a4e7220b90322a7379ca27e586d7d5a02076e0ea638b6dfa3ed205e0d"
 
 [[files]]
 file = "config/mc-option-sync/config.toml"
-hash = "e437b24b9fddfc0a4e4e88253bcdfbebadd27184bafdc9a677f5d1635d5559f3"
+hash = "16b6fa983b95ae9713c924712c91cd8799f60ad3c80cb7e16083b05e88683293"
 
 [[files]]
 file = "config/viafabricplus/settings.json"

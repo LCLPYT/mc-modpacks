@@ -1,6 +1,9 @@
 [[ignore]]
 	file = "config/mc-option-sync/*"
 
+[[ignore]]
+	file = "config/viafabricplus/*"
+
 [[sync]]
 	file = "options.txt"
 	module = "common"

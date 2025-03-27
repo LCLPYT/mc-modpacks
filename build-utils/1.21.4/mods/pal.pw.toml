@@ -1,15 +1,15 @@
 name = "pal"
-filename = "pal-0.13.0+1.21.4.jar"
+filename = "pal-0.15.0+1.21.4.jar"
 side = "both"
 
 [download]
-url = "https://github.com/LCLPYT/pal/releases/download/0.13.0%2B1.21.4/pal-0.13.0%2B1.21.4.jar"
+url = "https://github.com/LCLPYT/pal/releases/download/0.15.0%2B1.21.4/pal-0.15.0%2B1.21.4.jar"
 hash-format = "sha256"
-hash = "376cb46d952b1cc6a333ed74faba7dbef34de2a53d7b12f157117a94471913a3"
+hash = "5f355837afd4dee90982779f9463ca457c864d9d320ea7187e9412dbd49ebeef"
 
 [update]
 [update.github]
 branch = "1.21.4"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "LCLPYT/pal"
-tag = "0.13.0+1.21.4"
+tag = "0.15.0+1.21.4"

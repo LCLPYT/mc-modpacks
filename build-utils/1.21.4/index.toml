@@ -71,6 +71,11 @@ hash = "0b1fdce9cca96764c1c9238ce5af641e77358ae5e7e23ddd025c21c17692350a"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "d8ca6f046fb9cd06807898600cccc5d61e49f1a25c0116aa52e409819fe312da"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "d1a2a4ef509bb718243d16e2950b1289f286428c3067685f4ef40f4ec4f8a0a6"
 metafile = true
@@ -137,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/kibu.pw.toml"
-hash = "f160f1c143ff05f5b31bc06e8b3690ba2a35b6d0a8a4fd21f1f9912ffa949390"
+hash = "dbcd7c0e8ded64d0dc771bb1faefb2ef35acb938e591e1f0689fd2d442190e17"
 metafile = true
 
 [[files]]

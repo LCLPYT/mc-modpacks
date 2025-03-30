@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "27d8566cfd4ee1f34979f92b22dbd2d205f30f8190329c5335425c951ca9f0f9"
+hash = "3347d58a5b6b64c36f8632f2166cd300600dc3076845247a6ba58ffbdfbe767d"
 metafile = true
 
 [[files]]

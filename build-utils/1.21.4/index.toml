@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/kibu.pw.toml"
-hash = "dbcd7c0e8ded64d0dc771bb1faefb2ef35acb938e591e1f0689fd2d442190e17"
+hash = "b8d33156201d3e9c5a456bd30cdb1f5e0dd5a9846899aed10ef996a9d5b313c8"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/notica.pw.toml"
-hash = "7410a8944d2f7b5ced931236b84022b8c7afb089e84c6951cc65b7bf1cf9a458"
+hash = "0978043907581b90ab2313b3b7fbb361bb1a7c0c931ba00619f461d17c246406"
 metafile = true
 
 [[files]]

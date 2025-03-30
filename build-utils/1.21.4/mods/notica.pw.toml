@@ -1,13 +1,13 @@
 name = "Notica"
-filename = "notica-1.3.0+1.21.4.jar"
+filename = "notica-1.3.1+1.21.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1y46lDNS/versions/zqqosJBo/notica-1.3.0%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/1y46lDNS/versions/M0nV5kfb/notica-1.3.1%2B1.21.4.jar"
 hash-format = "sha512"
-hash = "b8e12a4f86d610466f7bab0ff7f7b8aea980603dfbcd9251c26325279fb419c1c0dc2e71edad1cb3894728698ae96f7ef67537553064debb14adefb08d7c43aa"
+hash = "0a313c9e944692141b2bfcbeae214c8fedce2ee44baa8c574f2283fd21995a5d577f0551cb22aa0485c09a4cef531acfd63a7f91536d11cc54ba872ce8abf9dd"
 
 [update]
 [update.modrinth]
 mod-id = "1y46lDNS"
-version = "zqqosJBo"
+version = "M0nV5kfb"

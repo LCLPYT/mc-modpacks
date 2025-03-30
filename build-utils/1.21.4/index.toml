@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "88ae050b15aaa9fb5b8ffe5df53e2b8407cb5217dde64241107c11509c2fd657"
+hash = "a598c30d51764141713c3871c44497bc420d602f9a378c28fc8f49c269fac386"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "d7bc58034de4a1afb4702d0038b9849e7d2664a85d460f3a05a29b4df1a230fc"
+hash = "1911f529012bae6e7746e820e56fdcf791e053e9e9c6450fbdf6a23a742d9e8b"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/ruler.pw.toml"
-hash = "b5bffe1e7f7b546538bf0b0943a42e4129a6fde45dd8f5bf0187943e2ec02a82"
+hash = "f49d17421205b1609414af751a27ba72476749c18f55948ba58e808e7b09f786"
 metafile = true
 
 [[files]]

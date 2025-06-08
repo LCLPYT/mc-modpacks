@@ -1,0 +1,13 @@
+name = "Survival 2025"
+author = "LCLP"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0c6306b6207dabe0b8c333a669c8a2b993d1ba31748832f85e6187020dfb6061"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.5"

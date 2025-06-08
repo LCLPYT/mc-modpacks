@@ -1,0 +1,15 @@
+name = "combat-control"
+filename = "combat-control-1.10.0+1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/LCLPYT/combat-control/releases/download/1.10.0%2B1.21.5/combat-control-1.10.0%2B1.21.5.jar"
+hash-format = "sha256"
+hash = "b2eb068e1ebdc5ac7251c5da96066c18f7940db238dc1583d3afa7b5ea2ea174"
+
+[update]
+[update.github]
+branch = "1.21.5"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "LCLPYT/combat-control"
+tag = "1.10.0+1.21.5"

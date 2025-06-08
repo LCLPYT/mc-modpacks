@@ -9,7 +9,7 @@ hash = "440d1bc0c29a06755b50f0a8fda83bbea5b46fad8fb219b0849aa97328ab8a08"
 
 [update]
 [update.github]
-branch = "1.21.5"
+branch = "1.21.4"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "LCLPYT/kibu"
 tag = "0.144.1+1.21.4"

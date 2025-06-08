@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "f912e676ef54f95f4cb204e695cd0f7653398367ec6ebb0e434e074500ecbf3b"
+
+[[files]]
+file = "config/combat-control/config.toml"
+hash = "8a49186a4e7220b90322a7379ca27e586d7d5a02076e0ea638b6dfa3ed205e0d"
+
+[[files]]
+file = "config/mc-option-sync/config.toml"
+hash = "d4d8f651be286448fa3372f1f2c3ad3e76fc5e42bf5024beccd054f5f1fd6598"
+
+[[files]]
+file = "config/viafabricplus/settings.json"
+hash = "3c17de580fc3f32702eb684c6ac3929ebb9ef9bef5d5c8d71c281c8a76c250c2"
+
+[[files]]
+file = "config/zoomify.json"
+hash = "599c800b5c2744bb83b972822c2dab5d313963e191872fd94b05be68d6a0dda2"
+
+[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "1335f4fda7324a2a6a79f564f6f1255fcb60116f6ff8ce86d212c8caf6dfc5ae"
 metafile = true

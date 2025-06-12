@@ -1,0 +1,15 @@
+name = "ruler"
+filename = "ruler-0.4.0+1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/LCLPYT/ruler/releases/download/0.4.0%2B1.21.5/ruler-0.4.0%2B1.21.5.jar"
+hash-format = "sha256"
+hash = "2185a1f8c24d95e87e4da0df73b17a5b8db93badd5e5f5ceb78c3b3c1041a65a"
+
+[update]
+[update.github]
+branch = "1.21.5"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "LCLPYT/ruler"
+tag = "0.4.0+1.21.5"

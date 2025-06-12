@@ -1,0 +1,15 @@
+name = "kibu-world-api"
+filename = "kibu-world-api-0.6.3+1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/LCLPYT/kibu-world-api/releases/download/0.6.3%2B1.21.5/kibu-world-api-0.6.3%2B1.21.5.jar"
+hash-format = "sha256"
+hash = "c264fa0aa5cdba1616028833c39522b7ae979d8225b5abc25fcdc782715910b0"
+
+[update]
+[update.github]
+branch = "1.21.5"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "LCLPYT/kibu-world-api"
+tag = "0.6.3+1.21.5"

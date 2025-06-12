@@ -1,0 +1,13 @@
+name = "Programmer Art Fix"
+filename = "[1.21.x]ProgrammerArtFix-rv4.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/d1nRD7RG/versions/VC00wgbA/%5B1.21.x%5DProgrammerArtFix-rv4.2.zip"
+hash-format = "sha512"
+hash = "51462882f85f801237ac38bde4b1e0a95197590f8d7a4a3726b2fc1b2c6c75055b81b783d5b9bca4e2911b7ccd538250823c90e0ac82917b2750b632ca131305"
+
+[update]
+[update.modrinth]
+mod-id = "d1nRD7RG"
+version = "VC00wgbA"

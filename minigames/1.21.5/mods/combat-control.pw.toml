@@ -1,0 +1,13 @@
+name = "Combat Control"
+filename = "combat-control-1.10.0+1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WJyo6fB5/versions/FMSmruxm/combat-control-1.10.0%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "869c8aaa4fd38fd922c156289b82a3f01274885edb571ea3de6dbedc32d8ee3297faf136a45e5ac2067e34223b7e9fefdaa68cf2d8d400c1d91dad7c8cc1b37b"
+
+[update]
+[update.modrinth]
+mod-id = "WJyo6fB5"
+version = "FMSmruxm"

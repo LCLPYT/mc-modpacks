@@ -1,10 +1,11 @@
 # mc-modpacks
 Available modpacks:
 
-| Modpack              | Loader | 1.21.4 |
-|--------------------- |--------|--------|
-| LCLP's MiniGame Pack | Fabric | ✅     |
-| Builder Utils        | Fabric | ✅     |
+| Modpack              | Loader | 1.21.4 | 1.21.5 |
+|--------------------- |--------|--------|--------|
+| LCLP's MiniGame Pack | Fabric | ✅     | ✅     |
+| Builder Utils        | Fabric | ✅     | ✅     |
+| Survival Pack        | Fabric | ❌     | ✅     |
 
 ## Manage and maintain modpacks
 This project uses [Packwiz](https://packwiz.infra.link/) to manage the modpacks.
@@ -39,4 +40,9 @@ Files that should not be included in the modpack can be put in the `.packwizigno
 You can export a modpack as `.mrpack` file:
 ```bash
 packwiz modrinth export
+```
+
+### Migrating to another Minecraft version
+```
+packwiz migrate minecraft <version>
 ```

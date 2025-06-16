@@ -1,12 +1,12 @@
 name = "LCLP's MiniGame Pack"
 author = "LCLP"
-version = "1.4.0"
+version = "1.5.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "eeb99fb3005f2daf1ba91e2c485b74d0cb7465c353793df49cbe29922d0d1203"
+hash = "c9f42140eb771c8f28b1fdc41991b92874cc4de7ca13752482c2126071bf83e3"
 
 [versions]
 fabric = "0.16.14"

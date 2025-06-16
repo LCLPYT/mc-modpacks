@@ -1,15 +1,15 @@
 name = "notica"
-filename = "notica-1.4.0+1.21.5.jar"
+filename = "notica-1.5.0+1.21.5.jar"
 side = "both"
 
 [download]
-url = "https://github.com/LCLPYT/notica/releases/download/1.4.0%2B1.21.5/notica-1.4.0%2B1.21.5.jar"
+url = "https://github.com/LCLPYT/notica/releases/download/1.5.0%2B1.21.5/notica-1.5.0%2B1.21.5.jar"
 hash-format = "sha256"
-hash = "6769ad95d0985646dbb7ec2c50afdcb8597ac745a693e8511cb49adc092aa9cb"
+hash = "bd6da7adfe35582ab6cc076ae919b33c9f1e1d7156f5422058f7e7f7dc2a332f"
 
 [update]
 [update.github]
 branch = "1.21.5"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "LCLPYT/notica"
-tag = "1.4.0+1.21.5"
+tag = "1.5.0+1.21.5"

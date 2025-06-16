@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7526ccbba405cff20b86350c9e0a59c8c470a59df70abb2fc307b6537a76105b"
+hash = "958810fbf4f0c978e3c7a78b42829cdb4dcdc78be467dab37a9993df2d3eb5c0"
 metafile = true
 
 [[files]]
@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/notica.pw.toml"
-hash = "23982ce0dc4afaa33cfa79fa121751cf205906b26d12b25fe61ba390254a0501"
+hash = "8c4f55c694416c9b5769d4ea66c21656b1b1b4fad11e789cb50d3e829c6602f1"
 metafile = true
 
 [[files]]

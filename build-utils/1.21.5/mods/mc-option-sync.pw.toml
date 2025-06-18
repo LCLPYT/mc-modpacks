@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://github.com/LCLPYT/mc-option-sync/releases/download/0.2.0%2B1.21.4/mc-option-sync-0.2.0%2B1.21.4.jar"
-hash-format = "sha256"
-hash = "bc8cdfc51d0230576e27afe76684796c0010e4fe8b85b1bef506cbbc3ff43531"
+hash-format = "sha512"
+hash = "14c0c5b096d1d1cea9f86e75cf45163c643022b6853c8c05112e6039838af43527dc2f498d5b23899eff5772368a001f17b0d6b28e2d921dd1af8bdd4a7ff3ee"
 
 [update]
 [update.github]

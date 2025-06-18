@@ -1,12 +1,12 @@
 name = "Survival 2025"
 author = "LCLP"
-version = "1.1.0"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6e103c801ccc10b9321f989d066601d22afe9a13f529501c2c1824119604caa3"
+hash = "2fa3b031a37db72fc7a60b7fae3d83ad974fcbd75d479eb5ac4372a0c2224472"
 
 [versions]
 fabric = "0.16.14"

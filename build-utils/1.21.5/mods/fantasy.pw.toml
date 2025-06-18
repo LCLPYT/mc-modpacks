@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://github.com/NucleoidMC/fantasy/releases/download/v0.6.7%2B1.21.5/fantasy-0.6.7%2B1.21.5.jar"
-hash-format = "sha256"
-hash = "b5d89c8940d4d26c7e75ad9d783f48ff7ee049df1f8c6bf5356a6eac56e27469"
+hash-format = "sha512"
+hash = "1835dc79aff28bd580d6f9800a32702888d7f0e75cc630cffa49ebdfbe55ab25f25c079c26485988efe91078a88041c578d2a00f00c0d093e8a10918725f2c2f"
 
 [update]
 [update.github]

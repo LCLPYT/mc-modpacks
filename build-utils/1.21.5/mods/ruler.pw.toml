@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://github.com/LCLPYT/ruler/releases/download/0.4.0%2B1.21.5/ruler-0.4.0%2B1.21.5.jar"
-hash-format = "sha256"
-hash = "2185a1f8c24d95e87e4da0df73b17a5b8db93badd5e5f5ceb78c3b3c1041a65a"
+hash-format = "sha512"
+hash = "964cad8d9c7d14f5d5680a8d4e98d335835f67a2d3d8349304427af1129e2997144111b619346aa063310eda0af7e292f3aef2deed5f9e20f5cc167d889e0078"
 
 [update]
 [update.github]

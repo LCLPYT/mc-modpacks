@@ -1,0 +1,13 @@
+name = "Notica"
+filename = "notica-1.5.1+1.21.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1y46lDNS/versions/noroBrZ9/notica-1.5.1%2B1.21.6.jar"
+hash-format = "sha512"
+hash = "5f15864cef589998b4fac311f7dd9d072434a2564c945d72d656b484d8fd744e29b1a6c3142387c46e9ec04292b751ffba55dca23c7b949e56e31c3aaac8740a"
+
+[update]
+[update.modrinth]
+mod-id = "1y46lDNS"
+version = "noroBrZ9"

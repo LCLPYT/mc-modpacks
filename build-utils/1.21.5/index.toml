@@ -26,11 +26,6 @@ hash = "6d62493c292c91b16b1092b6e71f1eed4a667ea6fd3638dc78e99d58a0f38be7"
 metafile = true
 
 [[files]]
-file = "mods/axiom.pw.toml"
-hash = "61bd71329ca1267b8e9ebeb8d2b8e9cbed73c4739ad947aeaeef2b98207e6de9"
-metafile = true
-
-[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "1335f4fda7324a2a6a79f564f6f1255fcb60116f6ff8ce86d212c8caf6dfc5ae"
 metafile = true
@@ -138,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/kibu-world-api.pw.toml"
 hash = "c894fce3d2d5d9b1734f3904feee9cdbc28ab89bf1d478536a0e70dea10d3077"
+metafile = true
+
+[[files]]
+file = "mods/kibu.pw.toml"
+hash = "93b5af61ca8efac738bfab01822b90eee3114615282f2acc8f2f37613b2d65e0"
 metafile = true
 
 [[files]]

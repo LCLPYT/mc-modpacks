@@ -1,0 +1,15 @@
+name = "mc-debug-sender-impl"
+filename = "mc-debug-sender-impl-0.2.2+1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/LCLPYT/mc-debug-sender-impl/releases/download/0.2.2%2B1.21.4/mc-debug-sender-impl-0.2.2%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "0116a7c5b821480b78a5a468cb66a7993aa182124c7612254205253b639465caadedfcf5b300755fa8bd559e2f22f6ce38e0c83b9bf041ab7e34cad11bc76ee7"
+
+[update]
+[update.github]
+branch = "1.21.5"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "LCLPYT/mc-debug-sender-impl"
+tag = "0.2.2+1.21.4"

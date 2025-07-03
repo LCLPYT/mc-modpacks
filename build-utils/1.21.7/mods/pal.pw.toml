@@ -1,0 +1,15 @@
+name = "pal"
+filename = "pal-0.15.0+1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/LCLPYT/pal/releases/download/0.15.0%2B1.21.5/pal-0.15.0%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "0f1da612d643312b118fbedcca9cc2726051b782f5b0cd18a28bde9bca01312936e142c8bf171a265a5fec079470b71487b3ffaefad308881f4bddfe14e5295f"
+
+[update]
+[update.github]
+branch = "1.21.5"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "LCLPYT/pal"
+tag = "0.15.0+1.21.5"

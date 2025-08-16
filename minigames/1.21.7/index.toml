@@ -178,11 +178,6 @@ hash = "678b99e31a211cd5938fcdf71077fb2f893da1b5426f503cdf3b8e2283e25c14"
 metafile = true
 
 [[files]]
-file = "mods/viafabricplus.pw.toml"
-hash = "0f6f6ec1f52b7d344de2b1231b1282085c92849f51eae44034ce63ab0498ae8d"
-metafile = true
-
-[[files]]
 file = "mods/visuality.pw.toml"
 hash = "d1de6d3e889db21acd36afb754f20b6ccc8c850cb7ef839047eb440e6114d652"
 metafile = true

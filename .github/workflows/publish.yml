@@ -1,14 +1,15 @@
 name: 'Publish'
 description: 'Builds a modpack and upload the result to GitHub and Modrinth'
 
-inputs:
-  modpack:
-    type: choice
-    description: Modpack to publish
-    options:
-      - minigames/1.21.7
 
-on: workflow_dispatch
+on: 
+  workflow_dispatch:
+    inputs:
+      modpack:
+        type: choice
+        description: Modpack to publish
+        options:
+          - minigames/1.21.7
 
 jobs:
   publish:

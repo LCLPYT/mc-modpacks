@@ -55,7 +55,7 @@ jobs:
           modrinth-id: ${{ steps.get_metadata.outputs.modrinth_id }}
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           modrinth-files: ${{ inputs.modpack }}/*.mrpack
-          name: "[${{ steps.get_metadata.outputs.mc_version }}] ${{ steps.get_metadata.outputs.name }} ${{ steps.get_metadata.outputs.version }}+${{ steps.get_metadata.outputs.mc_version }}"
+          modrinth-name: "[${{ steps.get_metadata.outputs.mc_version }}] ${{ steps.get_metadata.outputs.name }} ${{ steps.get_metadata.outputs.version }}+${{ steps.get_metadata.outputs.mc_version }}"
 
           github-tag: ${{ steps.get_metadata.outputs.version }}
           github-token: ${{ secrets.GITHUB_TOKEN }}

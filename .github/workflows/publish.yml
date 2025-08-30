@@ -45,7 +45,7 @@ jobs:
           echo "modrinth_id=$MODRINTH_ID" >> "$GITHUB_OUTPUT"
           echo "name=$NAME" >> "$GITHUB_OUTPUT"
 
-      - run: packwiz modrinth export && ls -lah
+      - run: packwiz modrinth export
         working-directory: ${{ inputs.modpack }}
         name: Build Modpack
 
@@ -62,6 +62,7 @@ jobs:
 
           name: ${{ steps.get_metadata.outputs.name }}
           version: "${{ steps.get_metadata.outputs.version }}+${{ steps.get_metadata.outputs.mc_version }}"
+          version-type: release
           loaders: |
             fabric
           game_versions: |

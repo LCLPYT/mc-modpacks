@@ -62,7 +62,7 @@ jobs:
           files: |
             ${{ inputs.modpack }}/*.mrpack
 
-          name: ${{ steps.get_metadata.outputs.name }}
+          name: "[${{ steps.get_metadata.outputs.mc_version }}] ${{ steps.get_metadata.outputs.name }} ${{ steps.get_metadata.outputs.version }}+${{ steps.get_metadata.outputs.mc_version }}"
           version: "${{ steps.get_metadata.outputs.version }}+${{ steps.get_metadata.outputs.mc_version }}"
           version-type: release
           loaders: |

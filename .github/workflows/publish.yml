@@ -1,0 +1,65 @@
+name: 'Publish'
+description: 'Builds a modpack and upload the result to GitHub and Modrinth'
+
+inputs:
+  modpack:
+    type: choice
+    description: Modpack to publish
+    options:
+      - minigames/1.21.7
+
+runs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/setup-go@v5
+        with:
+          go-version: '1.25'
+          check-latest: true
+        name: Setup Go
+
+      - run: go install github.com/packwiz/packwiz@latest
+        shell: bash
+        name: Install Packwiz
+
+      - run: echo "${{ runner.home }}/go/bin" >> $GITHUB_PATH
+        shell: bash
+
+      - uses: actions/checkout@v4
+
+      - name: Parse metadata
+        id: get_metadata
+        working-directory: ${{ inputs.modpack }}
+        run: |
+          VERSION=$(grep -E '^[[:space:]]*version[[:space:]]*=' pack.toml | sed -E 's/^[[:space:]]*version[[:space:]]*=[[:space:]]*"([^"]+)".*/\1/')
+          MC_VERSION=$(grep -E '^[[:space:]]*minecraft[[:space:]]*=' pack.toml | sed -E 's/^[[:space:]]*minecraft[[:space:]]*=[[:space:]]*"([^"]+)".*/\1/')
+          MODRINTH_ID=$(grep -E '^[[:space:]]*modrinth-id[[:space:]]*=' pack.toml | sed -E 's/^[[:space:]]*modrinth-id[[:space:]]*=[[:space:]]*"([^"]+)".*/\1/')
+          NAME=$(grep -E '^[[:space:]]*name[[:space:]]*=' pack.toml | sed -E 's/^[[:space:]]*name[[:space:]]*=[[:space:]]*"([^"]+)".*/\1/')
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+          echo "mc_version=$MC_VERSION" >> "$GITHUB_OUTPUT"
+          echo "modrinth_id=$MODRINTH_ID" >> "$GITHUB_OUTPUT"
+          echo "name=$NAME" >> "$GITHUB_OUTPUT"
+
+      - run: packwiz modrinth export
+        working-directory: ${{ inputs.modpack }}
+        name: Build Modpack
+
+      - uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          modrinth-id: ${{ steps.get_metadata.outputs.modrinth_id }}
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+
+          github-tag: ${{ steps.get_metadata.outputs.version }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+          files: |
+            "${{ inputs.modpack }}/*.mrpack"
+
+          name: ${{ steps.get_metadata.outputs.name }}
+          version: "${{ steps.get_metadata.outputs.version }}+${{ steps.get_metadata.outputs.mc_version }}"
+          loaders: |
+            fabric
+          game_versions: |
+            ${{ steps.get_metadata.outputs.mc_version }}

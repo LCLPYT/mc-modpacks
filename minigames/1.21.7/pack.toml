@@ -2,7 +2,7 @@ name = "LCLP's MiniGame Pack"
 author = "LCLP"
 version = "1.6.3"
 pack-format = "packwiz:1.1.0"
-modrinth-id = "lclps-minigame-pack"
+modrinth-id = "xipWLyHG"
 
 [index]
 file = "index.toml"

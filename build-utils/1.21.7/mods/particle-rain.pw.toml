@@ -1,13 +1,13 @@
 name = "Particle Rain"
-filename = "particle-rain-3.3.6.jar"
+filename = "particlerain-4.0.0-alpha.3+1.21.6-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/nrikgvxm/versions/xvreDfAp/particle-rain-3.3.6.jar"
+url = "https://cdn.modrinth.com/data/nrikgvxm/versions/Bux7BdAb/particlerain-4.0.0-alpha.3%2B1.21.6-fabric.jar"
 hash-format = "sha512"
-hash = "fa2b190370acf75f9d888a7f38181d5d51ba727f269686480b9caf6d52d507666a393b0521992fdf2aff7d1933445bb97025151c2de19b34b9879e9b4dc5991b"
+hash = "4f068929a9a9f5375d0444359223b4acb579a340cb451a26e2b63e23c38e70d3ef7cca3b314c4cb22110ce45d04a6c8cb36c97a07b4da73400d2396d2fc6fad6"
 
 [update]
 [update.modrinth]
 mod-id = "nrikgvxm"
-version = "xvreDfAp"
+version = "Bux7BdAb"

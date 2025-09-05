@@ -1,16 +1,16 @@
 name = "LCLP's Builder Utils Pack"
 author = "LCLP"
-version = "1.7.0"
+version = "1.7.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d2d040c0f4a65d206e03fa5b960ebe891e0a55d075d29887e34d86d0b3883d90"
+hash = "803feb80d182e29b171c5dc4a03b709c07a3f6046ea18b051b32db312ffb947a"
 
 [versions]
 fabric = "0.16.14"
 minecraft = "1.21.7"
 
 [options]
-acceptable-game-versions = ["1.21.6"]
+acceptable-game-versions = ["1.21.6", "1.21.8"]

@@ -1,13 +1,13 @@
 name = "Cool Rain"
-filename = "coolrain-1.2.0-1.21.7.jar"
+filename = "coolrain-1.3.0-1.21.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/iDyqnQLT/versions/azPseuhF/coolrain-1.2.0-1.21.7.jar"
+url = "https://cdn.modrinth.com/data/iDyqnQLT/versions/k8MDsGhO/coolrain-1.3.0-1.21.8.jar"
 hash-format = "sha512"
-hash = "1f32a7b171e9bd05b33f21ca16a064ae49cd1fa3912c4f77892e3f5c1b45542ccd069bea3cd28e9bc6fb8ddb3cf8f31b11f1fea1cc55686f9b6e5b330d31e870"
+hash = "4bb35f67d756877c29f80b13ba2aedb734b77e94bd8764aea87f942144c47b8d37fd2d16b4b48affb6b1318cfa8e8ec2d239f0cb4808622c568081c7c6bdfe30"
 
 [update]
 [update.modrinth]
 mod-id = "iDyqnQLT"
-version = "azPseuhF"
+version = "k8MDsGhO"

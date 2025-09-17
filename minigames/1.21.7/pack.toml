@@ -1,17 +1,16 @@
 name = "LCLP's MiniGame Pack"
 author = "LCLP"
-version = "1.6.3"
+version = "1.7.0"
 pack-format = "packwiz:1.1.0"
-modrinth-id = "xipWLyHG"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fe0941fc05dcbe1f7ae1a9b4ba08f31de83d7f200b669ed0ce08f8aa172fe08a"
+hash = "7162bf80050d02d74eed4ab0de55499bcbce6451a55ec12ac23c8ddd9d63d123"
 
 [versions]
-fabric = "0.16.14"
-minecraft = "1.21.7"
+fabric = "0.17.2"
+minecraft = "1.21.8"
 
 [options]
-acceptable-game-versions = ["1.21.6"]
+acceptable-game-versions = ["1.21.6", "1.21.8"]

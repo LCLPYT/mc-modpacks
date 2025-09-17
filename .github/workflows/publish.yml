@@ -38,7 +38,7 @@ jobs:
         run: |
           VERSION=$(grep -E '^[[:space:]]*version[[:space:]]*=' pack.toml | sed -E 's/^[[:space:]]*version[[:space:]]*=[[:space:]]*"([^"]+)".*/\1/')
           MC_VERSION=$(grep -E '^[[:space:]]*minecraft[[:space:]]*=' pack.toml | sed -E 's/^[[:space:]]*minecraft[[:space:]]*=[[:space:]]*"([^"]+)".*/\1/')
-          MODRINTH_ID=$(grep -E '^[[:space:]]*modrinth-id[[:space:]]*=' pack.toml | sed -E 's/^[[:space:]]*modrinth-id[[:space:]]*=[[:space:]]*"([^"]+)".*/\1/')
+          MODRINTH_ID=$(tr -d ' \n' < .modrinth-id)
           NAME=$(grep -E '^[[:space:]]*name[[:space:]]*=' pack.toml | sed -E 's/^[[:space:]]*name[[:space:]]*=[[:space:]]*"([^"]+)".*/\1/')
           echo "version=$VERSION" >> "$GITHUB_OUTPUT"
           echo "mc_version=$MC_VERSION" >> "$GITHUB_OUTPUT"

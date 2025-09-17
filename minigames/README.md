@@ -8,7 +8,7 @@ Please note that the game modes and the client improvements are under developmen
 > [!IMPORTANT]
 > Mini games and game modes showcased here are still under development, but will be released when out of the alpha phase in the near future.
 
-![The LCLPNetwork game lobby](https://cdn.modrinth.com/data/xipWLyHG/images/1ba26e45a4aa33b762945d640ffaaebdb02abdae.jpeg)
+![The LCLPNetwork game lobby](https://cdn.modrinth.com/data/xipWLyHG/images/ce95d24041b7c5f51acddb82659b13b866bbe275.jpeg)
 
 ## Included Mods
 ### Mini game enhancements

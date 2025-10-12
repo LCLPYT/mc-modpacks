@@ -21,11 +21,6 @@ file = "config/zoomify.json"
 hash = "599c800b5c2744bb83b972822c2dab5d313963e191872fd94b05be68d6a0dda2"
 
 [[files]]
-file = "mods/accurate-block-placement-reborn.pw.toml"
-hash = "5d1b0d0fc0c0422d25b54e0bd7a76a7733967278c7691830fb53fb0879ad4884"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "2d1c297c06a8781464a18d28d4a6d5c4807d216e42f6e315215d244ecdcb254b"
 metafile = true
@@ -87,12 +82,12 @@ metafile = true
 
 [[files]]
 file = "mods/gaco.pw.toml"
-hash = "0c9e85c9b80add19eb477cb9b7b6afc89f787422fb5c89c571b8780ab138338c"
+hash = "9260878f8cc7d2ac626070322ad816def178b5f8b53f72bd3485e582ec45de81"
 metafile = true
 
 [[files]]
 file = "mods/game-map-utils.pw.toml"
-hash = "2a024ea577ee14c14b9fb7ce7721279961e52a457baf96e4006147b2f5eb8e53"
+hash = "8f7f8431647d59d2d54d0137e58fc67498690c1a8d7d6344a09472f23946edff"
 metafile = true
 
 [[files]]

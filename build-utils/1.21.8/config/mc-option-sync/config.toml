@@ -1,6 +1,9 @@
 [[ignore]]
 	file = "config/mc-option-sync/*"
 
+[[ignore]]
+	file = "config/game-map-utils/map_schemas/*"
+
 [[sync]]
 	file = "options.txt"
 	module = "common"

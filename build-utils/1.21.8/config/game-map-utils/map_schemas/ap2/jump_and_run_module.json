@@ -1,6 +1,11 @@
 {
   "name": "Jump 'n' Run module",
   "properties": {
+    "exit": {
+      "name": "Exit",
+      "optional": true,
+      "type": "block_face"
+    },
     "spawn": {
       "role": "spawn",
       "name": "Spawn",
@@ -33,6 +38,11 @@
       "default": [],
       "name": "Assistance blocks",
       "type": "positioned_block_set"
+    },
+    "entrance": {
+      "name": "Entrance",
+      "optional": true,
+      "type": "block_face"
     }
   }
 }

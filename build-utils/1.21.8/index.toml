@@ -14,7 +14,7 @@ hash = "8a49186a4e7220b90322a7379ca27e586d7d5a02076e0ea638b6dfa3ed205e0d"
 
 [[files]]
 file = "config/game-map-utils/map_schemas/ap2/jump_and_run_module.json"
-hash = "2a24b9d84d64bd5d11dfbfa511cfa77023d7936e736a4a83d6c1636cf0e746b8"
+hash = "59f960f779c2fdf1179992a3d4a892fe864228594713526d91edda342870da0c"
 
 [[files]]
 file = "config/game-map-utils/map_schemas/gaco/common.json"

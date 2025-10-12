@@ -1,7 +1,7 @@
 # mc-modpacks
 Available modpacks:
 
-| Modpack              | Loader | 1.21.4 | 1.21.5 | 1.21.6 | 1.21.7 |
+| Modpack              | Loader | 1.21.4 | 1.21.5 | 1.21.6 | 1.21.8 |
 |--------------------- |--------|--------|--------|--------|--------|
 | LCLP's MiniGame Pack | Fabric | ✅     | ✅     | ❌     | ✅     |
 | Builder Utils        | Fabric | ✅     | ✅     | ❌     | ✅     |

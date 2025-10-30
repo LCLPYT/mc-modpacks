@@ -5,7 +5,7 @@ Available modpacks:
 |--------------------- |--------|--------|--------|--------|--------|---------|
 | LCLP's MiniGame Pack | Fabric | ✅     | ✅     | ❌     | ✅     | ✅      |
 | Builder Utils        | Fabric | ✅     | ✅     | ❌     | ✅     | ✅      |
-| Survival Pack        | Fabric | ❌     | ✅     | ✅     | ❌     |         |
+| Survival Pack        | Fabric | ❌     | ✅     | ✅     | ❌     | ❌      |
 
 LCLP's MiniGame Pack is also available directly on [Modrinth](https://modrinth.com/modpack/lclps-minigame-pack).
 

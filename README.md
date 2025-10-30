@@ -1,11 +1,13 @@
 # mc-modpacks
 Available modpacks:
 
-| Modpack              | Loader | 1.21.4 | 1.21.5 | 1.21.6 | 1.21.8 |
-|--------------------- |--------|--------|--------|--------|--------|
-| LCLP's MiniGame Pack | Fabric | ✅     | ✅     | ❌     | ✅     |
-| Builder Utils        | Fabric | ✅     | ✅     | ❌     | ✅     |
-| Survival Pack        | Fabric | ❌     | ✅     | ✅     | ❌     |
+| Modpack              | Loader | 1.21.4 | 1.21.5 | 1.21.6 | 1.21.8 | 1.21.10 |
+|--------------------- |--------|--------|--------|--------|--------|---------|
+| LCLP's MiniGame Pack | Fabric | ✅     | ✅     | ❌     | ✅     | ✅      |
+| Builder Utils        | Fabric | ✅     | ✅     | ❌     | ✅     | ✅      |
+| Survival Pack        | Fabric | ❌     | ✅     | ✅     | ❌     |         |
+
+LCLP's MiniGame Pack is also available directly on [Modrinth](https://modrinth.com/modpack/lclps-minigame-pack).
 
 ## Manage and maintain modpacks
 This project uses [Packwiz](https://packwiz.infra.link/) to manage the modpacks.

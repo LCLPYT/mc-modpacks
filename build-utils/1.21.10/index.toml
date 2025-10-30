@@ -29,6 +29,11 @@ file = "config/zoomify.json"
 hash = "599c800b5c2744bb83b972822c2dab5d313963e191872fd94b05be68d6a0dda2"
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "5d803700375154c02bfa9e7d3f64b634708568f4d22cd3671cddcd9b3c7d2ab5"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "a8fe779847f0dbe2fd01e8e14d2c457f049f94b34de90b9d21d5453332945ab9"
 metafile = true

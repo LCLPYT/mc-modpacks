@@ -1,0 +1,15 @@
+name = "fantasy"
+filename = "fantasy-0.6.8+1.21.9.jar"
+side = "both"
+
+[download]
+url = "https://github.com/NucleoidMC/fantasy/releases/download/v0.6.8%2B1.21.9/fantasy-0.6.8%2B1.21.9.jar"
+hash-format = "sha256"
+hash = "da0b092a03ff68c803bcda2a8257bf7b72b85087a22f80ce86e23060fb3b586a"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "NucleoidMC/fantasy"
+tag = "v0.6.8+1.21.9"

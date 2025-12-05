@@ -38,7 +38,7 @@ hash = "df0e22092281cc8c0c15da7a17f1ad30d5e1ee5cd2231b256178adf5db88af56"
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "a8fe779847f0dbe2fd01e8e14d2c457f049f94b34de90b9d21d5453332945ab9"
+hash = "59658f3b9d3b86b24440008fd2031c53d538cbb35e84524bcdbc67f0de7ea251"
 metafile = true
 
 [[files]]
@@ -53,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/coolrain.pw.toml"
-hash = "3680c1c55696b8cf2c7108976d237eff2cce12cd1816121c5c47dd355edd2fb2"
+hash = "e83a3406671648957065b5ac52659294dcedbf888fc741017e769f2341df9698"
 metafile = true
 
 [[files]]
@@ -63,12 +63,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "83d5f505a07d12d58259db0e9b3d02dfa2bbcc93e63f34401d3409b07bf6898b"
+hash = "5443c56a46d7fca84a1f96dc58315951a24cf8954f059aa35f213f28214d468d"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b908cccddb4f18a5f570a0201b7a6f7f6775f9fcb0dcd0a1a0d7600ff1d7c7f3"
+hash = "cbda4f1881cfb9f054395a3db225df4202d1f2e7bd0ed27d803b837fcf728621"
 metafile = true
 
 [[files]]
@@ -83,7 +83,12 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+hash = "186a261ded1911abf559dce21b22eadc1e96de7767982e58f458b82a89a924ba"
+metafile = true
+
+[[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "cc4a12cee04af27f3ca40ebe8d9509292a35f7b944cb5892de9adfaeecae6fda"
 metafile = true
 
 [[files]]
@@ -103,12 +108,12 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "e570f2284d94889aa091327cca3264ea6c637dc01aa4c2a3e5f06c437a09a8a0"
+hash = "9cdfe1aabacf0ecb757ed62251e16e97a1de6491cfcd3538b0c3a1c744cb826a"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ed9d0d5d4078c137900006321d35515cee46058b92df1128ea37cda3e5e1bb2b"
+hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
 metafile = true
 
 [[files]]
@@ -143,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "1600b1e64b297d68bafb4f5e5eeef08117645ac24922696da10c711ae587c06b"
+hash = "ad2c2880cd91b5d927f3bfdba657189997cdd6dd30f46ee0d969a68de2bb2ad8"
 metafile = true
 
 [[files]]
@@ -153,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "4f57108f9e1c6281cfdaf3812e6bc2a2f16609a845c9912218ada90b1603e1b3"
+hash = "bb7064282571976ed2bbe266bcf5e525d6d661aeea89649e4d604327973cf92d"
 metafile = true
 
 [[files]]
@@ -163,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e8c961dbadf2dde334c857d0b42a6c6452aa77a146cf80d4febf7f46e4ac2ef6"
+hash = "279ea1bb4b776be9176fe34416e2132e37abfce4483def54177091cc0f2faade"
 metafile = true
 
 [[files]]
@@ -192,7 +197,7 @@ hash = "db66d6e4d70b7de2e640351f3c6c23c0615cea4759f764daf0c77fcf6aff4a34"
 
 [[files]]
 file = "resourcepacks/programmer-art-fix.pw.toml"
-hash = "5267aa23939b8c5610ccec3b77506c039559e8afe23fa2e7b7f14165432d00c5"
+hash = "5f9904e240f6beebffcb79fdcd1352722973724e7efb811adfa3c6bf42e98d90"
 metafile = true
 
 [[files]]
@@ -201,7 +206,7 @@ hash = "730b25e5f72bdfd92e853c21f1d4d0ee249dedb82de85c91caf04b23eb5e23b9"
 
 [[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
-hash = "f4fb7685cf5f1f07eb5b07b0dd7ea211e46e249cb3a78237358d27c3db1dea2b"
+hash = "8ffd81a5e0b4c3bc2daf0d86714ef56df4beb1ed87a5c41c4e9bbb94a7006bc1"
 metafile = true
 
 [[files]]
@@ -236,5 +241,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "ee7d85e560722638174288e87de2c5e8ae82c8242de6614745e52d82acf7700c"
+hash = "aed8da05c8e4d9c7b68e82e8d9432b88769f7c4eeb8bd735845a189ef0e2bbf9"
 metafile = true

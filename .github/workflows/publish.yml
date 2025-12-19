@@ -9,6 +9,7 @@ on:
         type: choice
         description: Modpack to publish
         options:
+          - minigames/1.21.11
           - minigames/1.21.10
           - minigames/1.21.7
 

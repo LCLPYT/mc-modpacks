@@ -1,0 +1,7 @@
+{
+  "visual": {
+    "disable_secure_chat_warning": "enabled",
+    "hide_signature_indicator": "enabled"
+  },
+  "selected-protocol-version": "Auto Detect (1.7+ servers)"
+}

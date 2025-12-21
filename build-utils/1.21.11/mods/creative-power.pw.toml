@@ -1,0 +1,15 @@
+name = "creative-power"
+filename = "creative-power-0.3.0+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://github.com/LCLPYT/creative-power/releases/download/0.3.0%2B1.21.11/creative-power-0.3.0%2B1.21.11.jar"
+hash-format = "sha256"
+hash = "23cf8ec28b403525fe0d64410692679c885289bd147c234550a75118132cb2cd"
+
+[update]
+[update.github]
+branch = "1.21.11"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "LCLPYT/creative-power"
+tag = "0.3.0+1.21.11"

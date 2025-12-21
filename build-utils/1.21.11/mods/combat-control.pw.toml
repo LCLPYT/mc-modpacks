@@ -1,0 +1,13 @@
+name = "Combat Control"
+filename = "combat-control-1.11.0+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WJyo6fB5/versions/y9kl5BAf/combat-control-1.11.0%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "a7300bc7dc17f30ca13cce91b7a6125eda3179da73a913cd4552858ac098f7c50db03cdf9bbdb4ea32aed508793f021add0fed3c5981509adceddb5e287ec16d"
+
+[update]
+[update.modrinth]
+mod-id = "WJyo6fB5"
+version = "y9kl5BAf"

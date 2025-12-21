@@ -1,0 +1,48 @@
+{
+  "name": "Jump 'n' Run module",
+  "properties": {
+    "exit": {
+      "name": "Exit",
+      "optional": true,
+      "type": "block_face"
+    },
+    "spawn": {
+      "role": "spawn",
+      "name": "Spawn",
+      "type": "position"
+    },
+    "startGates": {
+      "default": [],
+      "name": "Custom start gates",
+      "optional": true,
+      "type": "list",
+      "items": "block_box"
+    },
+    "start": {
+      "name": "Custom start checkpoint",
+      "optional": true,
+      "type": "checkpoint"
+    },
+    "checkpoints": {
+      "default": [],
+      "name": "Checkpoints",
+      "type": "list",
+      "items": "checkpoint"
+    },
+    "end": {
+      "name": "Custom end checkpoint",
+      "optional": true,
+      "type": "checkpoint"
+    },
+    "assistance": {
+      "default": [],
+      "name": "Assistance blocks",
+      "type": "positioned_block_set"
+    },
+    "entrance": {
+      "name": "Entrance",
+      "optional": true,
+      "type": "block_face"
+    }
+  }
+}

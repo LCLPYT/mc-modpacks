@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "aed9bbc1e24a8db8f57a9bea98460638abf832aaa5281d607657bd3063022348"
+hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
 metafile = true
 
 [[files]]
@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "816a274a51586b2a1e328b70fef8aba88c8e0c64205bebb2773cde8bc205f20f"
+hash = "7adc0d54f139075d8f90dae18ca476753cc3145a70e09c9327736024adfe9b30"
 metafile = true
 
 [[files]]
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "43ae42453ad9c79d9ab1158e13b3230f3dd5d43c6abc088f566038152af3347f"
+hash = "b7d33095f206cb34dc8cd3d5410a00597439a2fc793f4c158c7a2ecfc7e85e82"
 metafile = true
 
 [[files]]
@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6dbca2c20d66b076bb4e8959ea0e26887991acf48f785aae402e066d5e3eb6ea"
+hash = "c66e4b3576440113259b5bae8d0660b8e0023ce852156f27383f8651ecc4bfe3"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c0a85192cfec296d8ab8690e91bfeb932efde590af289ec263616ed36543cee7"
+hash = "dd8c7eed10a3639d76595603142e1d18f6d26262747138c9442d70311006be5e"
 metafile = true
 
 [[files]]
@@ -199,8 +199,13 @@ hash = "d44e2b5db1fb0c90d9ec5f25a153a437ea71c59a499491b6d639fff69cec8ba4"
 metafile = true
 
 [[files]]
+file = "mods/voxy.pw.toml"
+hash = "98f6ceea9a07d7cf9f08bce86fe8fb340f806fa1a0b6ec8f6f16dcbcafd42475"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
-hash = "ee0e304c56ac8916e1f43872a2565a2109f72ae49027ed6a78fc8c84d8153382"
+hash = "d97d69e49c2285b39a0c283ccc351dc046404a874c452c4827d8dfd4195cc528"
 metafile = true
 
 [[files]]
@@ -233,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "d30923bf5cfb4988a372508cb461d8077609d79a38d0b170785804c7ad15f16e"
+hash = "87225b53fc99a1bd3175357d9b7d359924877f30656550e563d16caa4a9373e1"
 metafile = true
 
 [[files]]

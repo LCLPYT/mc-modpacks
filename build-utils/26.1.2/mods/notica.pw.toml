@@ -1,0 +1,13 @@
+name = "Notica"
+filename = "notica-2.0.0+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1y46lDNS/versions/66LIcF9w/notica-2.0.0%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "7a488ab52546e5057d5beb16fc544861f2ef5929d01fc3adec8ce20979b280963faaa310c0ec5a05ea8803d9e11c9513a185744494204fb5ebe2f7378fe83424"
+
+[update]
+[update.modrinth]
+mod-id = "1y46lDNS"
+version = "66LIcF9w"

@@ -219,11 +219,6 @@ hash = "70810061d41b8eb952f99ef365ba26d04ae6e08875da2adfe66d9a6b337128f2"
 metafile = true
 
 [[files]]
-file = "mods/voxy.pw.toml"
-hash = "3d0b5dfde474285ec7980e955bbd5730e61049f3312c07e1b3aed6bc2da4a644"
-metafile = true
-
-[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "94a06a8b641497c208276d75762db8e34bf01837a3e89c5bdc19e4cb9c93f16e"
 metafile = true

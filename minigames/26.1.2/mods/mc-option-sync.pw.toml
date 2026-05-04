@@ -1,0 +1,15 @@
+name = "mc-option-sync"
+filename = "mc-option-sync-0.2.0+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/LCLPYT/mc-option-sync/releases/download/0.2.0%2B26.1.2/mc-option-sync-0.2.0%2B26.1.2.jar"
+hash-format = "sha256"
+hash = "e32dde0ebb9f8cc99d9920c9c92a2b97470e8a4b7f4b5305d2153975afa8e498"
+
+[update]
+[update.github]
+branch = "26.1"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "LCLPYT/mc-option-sync"
+tag = "0.2.0+26.1.2"

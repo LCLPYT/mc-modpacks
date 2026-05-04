@@ -182,11 +182,6 @@ hash = "70810061d41b8eb952f99ef365ba26d04ae6e08875da2adfe66d9a6b337128f2"
 metafile = true
 
 [[files]]
-file = "mods/voxy.pw.toml"
-hash = "3d0b5dfde474285ec7980e955bbd5730e61049f3312c07e1b3aed6bc2da4a644"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "51a17d028bf0d35c66d269185a63ea4adc968f60727454d0f8ed3ef2138f8612"
 metafile = true

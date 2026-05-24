@@ -1,15 +1,15 @@
 name = "kibu"
-filename = "kibu-0.154.0+26.1.jar"
+filename = "kibu-0.158.0+26.1.2.jar"
 side = "both"
 
 [download]
-url = "https://github.com/LCLPYT/kibu/releases/download/0.154.0%2B26.1/kibu-0.154.0%2B26.1.jar"
+url = "https://github.com/LCLPYT/kibu/releases/download/0.158.0%2B26.1.2/kibu-0.158.0%2B26.1.2.jar"
 hash-format = "sha256"
-hash = "ddb311d680a7f9465195f838635815304dc16505037f3769e89b87f3427727d3"
+hash = "98a88a702ffe4ded1a24f214cbfd0c315b3218e783c0949b622323bcfe36bed0"
 
 [update]
 [update.github]
 branch = "26.1"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "LCLPYT/kibu"
-tag = "0.154.0+26.1"
+tag = "0.158.0+26.1.2"

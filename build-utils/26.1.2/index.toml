@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/combat-control.pw.toml"
-hash = "da224548d981fe084fb7c219303c5470f032008d18cd329dba19bb6033ea005f"
+hash = "41338896fb7e02615556221161f67d8e15a28fe11761fb952f31027068d2a338"
 metafile = true
 
 [[files]]
@@ -75,12 +75,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "4f0b968b06bd349210ffefa44a236a73383206cdcd97b8942f02abdcab260a19"
+hash = "db13dae82b68302f3c545fa4893e21086e8809d4b01f3f1c7561309041101b4d"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5adf60faf11b97a7979f398fd6c494f55603a384880db1bf9755f2495d0dc5a2"
+hash = "2a77dc7aade5de6d21315582c4b70db40ff2bdf746b61c10d7ad3c5be8422f75"
 metafile = true
 
 [[files]]
@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/fantasy.pw.toml"
-hash = "756811323fb2c400311b9c348c295f5112032eddab13ddf427bcb9ef96666923"
+hash = "7d4571a066357db198de39e0754a09bc6af7f8c03d94b152b320d4e01e97bb2c"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/kibu.pw.toml"
-hash = "d1f3dd353f57e9ed2ea2ea3963ef106ea34b28f907d4eadb1b92adcabdf77aed"
+hash = "bad5a1c6a4fd67a5c8509fc09425a79ddf89c4b2b440c22ac1d133b2cc235282"
 metafile = true
 
 [[files]]
@@ -165,12 +165,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "a3b2043845ab8f258b02e6cefe35e20f836ccc1e30acd6758fc98a772be87828"
+hash = "42583eed7ccb599f10285e721c25bf3c8858ef7e0eb8e22aa8bf64a08d98a280"
 metafile = true
 
 [[files]]
 file = "mods/notica.pw.toml"
-hash = "6d984f4ad8ea826837ede50abd3e671328865d09f1ad530f6c8e19995be9f50b"
+hash = "9d10f701c2128d5a55e24880e5f1e265c1141cba132fc6f031244026bd61e82a"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "3bfc304f7aaec9ca058accba19da95114b0165d1e6da837630f2e9e2a5e7501b"
+hash = "6da3a9448d083b3aab7652307a5dde3de419ccda0b8e98b9f9ce8c00615a0361"
 metafile = true
 
 [[files]]
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b3bf6eb1cf803d702af91d3ca5f39e7528e1d55afdae03833f6e31698803caa9"
+hash = "e5278cc1dcda4fe789eaf05318fa5885f9f3412685f8ac231fe9a395409089e0"
 metafile = true
 
 [[files]]
@@ -226,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "70810061d41b8eb952f99ef365ba26d04ae6e08875da2adfe66d9a6b337128f2"
+metafile = true
+
+[[files]]
+file = "mods/worldedit-cui.pw.toml"
+hash = "8026a70df8234dc088e84057508afbc1e4c6cbed99c41c884a42183edc968cc6"
 metafile = true
 
 [[files]]
@@ -268,12 +273,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
+hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "5caf93fa1624aeb26d11cdbadcb0c03b2a92815c798a930014774c7d525baf28"
+hash = "608b87f75b2387a9fbd340cb18a8238bbbe5a0afc54202634b34f3000246b6e7"
 metafile = true
 
 [[files]]

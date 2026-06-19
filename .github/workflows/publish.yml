@@ -9,6 +9,7 @@ on:
         type: choice
         description: Modpack to publish
         options:
+          - minigames/26.2
           - minigames/26.1.2
           - minigames/1.21.11
           - minigames/1.21.10
@@ -22,7 +23,7 @@ jobs:
     steps:
       - uses: actions/setup-go@v6
         with:
-          go-version: '1.25'
+          go-version: '1.26.4'
           check-latest: true
         name: Setup Go
 

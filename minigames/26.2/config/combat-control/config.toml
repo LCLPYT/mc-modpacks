@@ -1,0 +1,74 @@
+#Client configuration
+[client]
+	#Renders the classic bobbing effect, with a slight head tilt when jumping. Will only work if view bobbing is enabled.
+	oldBobbing = true
+	#Disables flashing effect of hearts when taking damage. This makes it easier to see your current health.
+	noFlashingHearts = true
+	#Allow servers to temporarily override the old bobbing setting (recommended).
+	serverBobbingOverride = true
+	#Disables the smooth sneak animation, like in older versions
+	instantEyeHeight = true
+	#Displays attributes like in earlier versions. Recognizable by the blue text.
+	oldAttributeStyle = true
+
+#Global configuration that doesn't involve specific players
+[global]
+	#Expand hitboxes by 10% to make hits more accurate
+	largerHitboxes = true
+	#If enabled, tools like axes will deal the modern amount of damage that takes cooldown into account. If disabled, damage values will be reverted / adapted to 1.8 and previous versions
+	modernDamageValues = false
+	#Period in ticks when to refresh player pings
+	pingUpdateTicks = 5
+	#Threshold in milliseconds when to consider the difference in players's ping an outlier (lag spike)
+	pingSpikeMs = 50.0
+
+#Default player configuration
+[player]
+	#Whether sweep attacks are enabled. Even if disabled, the sweeping edge enchantment will still perform a sweep attack
+	sweepAttack = false
+	#Whether attack is allowed while using an item (e.g. aiming a bow or eating food) used to be possible in 1.7.10 and before
+	attackWhileUsing = true
+	#Whether reeling in an entity pulls it towards the player. Many PVP servers disabled this, however it was always enabled in vanilla
+	fishingRodPull = false
+	#If enabled, attacking will damage the held item by 2, otherwise only by 1
+	modernItemDurability = false
+	#If enabled, hooking an entity will cause 5 damage to a fishing rod. Otherwise, only 3 damage are applied to the rod.
+	modernFishingRodDurability = false
+	#If enabled, plays the modern fishing rod reeling sounds
+	modernFishingRodSounds = false
+	#If enabled, fishing rod hits will not apply knockback
+	noFishingRodKnockBack = false
+	#If enabled, critical hits will not be possible while sprinting
+	noSprintCriticalHits = false
+	#Determines how the player receives knockback.
+	#Possible options:
+	#    DEFAULT: Does not adjust knockback behaviour
+	#    NO_SCALING: Apply consistent upwards knockback with every hit. Used to be enabled on most 1.8 pvp servers.
+	#    PING_ADJUSTED: Knockback will be adjusted depending on the player's latency to the server. Reduces the advantage of high ping players in pvp combos.
+	knockbackVariant = "NO_SCALING"
+	#If enabled, the sharpness enchantment adds 0.5 damage per level. If disabled, it is 1.25 damage per level
+	modernSharpness = false
+	#Whether attack cooldown is enabled
+	attackCooldown = false
+	#Whether the arm swing animation should render properly while using an item, should definitely be enabled when attackWhileUsing=true
+	renderSwingArmWhileUsing = true
+	#Skip equip animation when using items (e.g. shield)
+	noReequipWhenUsing = true
+	#Enables fast regeneration as seen in modern Minecraft. If disabled, health regenerates every 4 seconds with at least 18 food. Full saturation also no longer regenerates health quickly.
+	modernRegeneration = false
+	#Modern notch apple gives regeneration 2 and absorption 4. Disabling this gives regeneration 5 and absorption 1 instead, as it used to
+	modernNotchApple = false
+	#If enabled, attacking will stop sprinting
+	noAttackSprinting = false
+	#If enabled, prevents knockback from attacks with zero damage (e.g. snowball hit)
+	noWeakAttackKnockBack = false
+	#If enabled, fishing rod pulls will apply a slight upwards boost
+	fishingRodLaunch = true
+	#Allows the player to block using a sword. Unlike when blocking with a shield, the damage is only reduced partially. Players without the mod can also use this feature, but will receive a temporary shield instead.
+	swordBlocking = true
+	#If enabled, the fishing rod will move slower, as seen in 1.9+ versions
+	slowFishingRodMotion = false
+	#Whether modern pvp particles such as damage indicators are displayed
+	modernHitParticle = false
+	#Will play modern combat hit sounds. If disabled, it just plays the classic hit sound
+	modernHitSounds = false

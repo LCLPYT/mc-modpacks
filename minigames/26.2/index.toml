@@ -37,6 +37,11 @@ file = "icon.png"
 hash = "df0e22092281cc8c0c15da7a17f1ad30d5e1ee5cd2231b256178adf5db88af56"
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "73326213899af53071fedc242ad04f0c8fc45cf7151d8fadcc35550970a72e51"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "8c506a09d2baf1b2036ff874e30999b499f0efa709588454a33af7293f7c9dd0"
 metafile = true

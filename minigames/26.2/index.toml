@@ -112,6 +112,11 @@ hash = "8c4fe8cfa2eb63ba2df48772ce83ede8b07620f44482447bda564dbd317d51a0"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "e922d7300eba8cfbd9aa31ba475cf6fcbcf11d74e89a0314ada18d58f08a2634"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "78a4f61155aed3cd1cf34eb616aaa85845cbc4e02dec16755e618f0fd7dd6c99"
 metafile = true
@@ -134,6 +139,11 @@ metafile = true
 [[files]]
 file = "mods/notica.pw.toml"
 hash = "40afb5bd6bc1c5e5b1cb5bb4afb2480a77fca39b8ea07491b8afe3e9ce3b52f8"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "a2c888916c629defafc7a4af782f3c1791eeb4b51427d9573ef3efeeae882175"
 metafile = true
 
 [[files]]

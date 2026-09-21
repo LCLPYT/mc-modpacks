@@ -1,12 +1,12 @@
 name = "LCLP's Builder Utils Pack"
 author = "LCLP"
-version = "1.14.0"
+version = "1.15.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0012f6a2b8c518bc2bae742c6d1cc842dea16a58b78413abb7957b26719b35e1"
+hash = "82fdda50bdaf69a7e08d52f764c9bd8e71f09deb39091da61adff363474c79fc"
 
 [versions]
 fabric = "0.19.3"

@@ -34,6 +34,11 @@ hash = "38a6c2c64413a82214bd9ba779571b9686590ba4757378c469151c618e79e6c6"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "73326213899af53071fedc242ad04f0c8fc45cf7151d8fadcc35550970a72e51"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "8c506a09d2baf1b2036ff874e30999b499f0efa709588454a33af7293f7c9dd0"
 metafile = true
@@ -59,8 +64,18 @@ hash = "2effcd5897e9e3708e4a0c79db418fba3cae0e19f602c5a2da9c7e3882d20dae"
 metafile = true
 
 [[files]]
+file = "mods/coolrain.pw.toml"
+hash = "1c544f4a6a238ab951d6895ebe798b66ef9530f1ec61cc6d77b1a4e269b45453"
+metafile = true
+
+[[files]]
 file = "mods/creative-power.pw.toml"
 hash = "b9380e8bdcddd0f221f808d0b3ff0eb16180eadef640890e90476bfc6af77e3e"
+metafile = true
+
+[[files]]
+file = "mods/dbtools.pw.toml"
+hash = "2d1ce443e8ba8ab5f5f4d6858b5e381c6386cf0813e56dfae4bb83c6929740e1"
 metafile = true
 
 [[files]]
@@ -139,6 +154,11 @@ hash = "7bb05015af6434902165407fa527f8af7332fb48517d47b1aa39ca78d812c431"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "e922d7300eba8cfbd9aa31ba475cf6fcbcf11d74e89a0314ada18d58f08a2634"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "9e80adfe7d8650beb84ed1b7fd25c801810994ad35e451683b6735985cd1bfca"
 metafile = true
@@ -166,6 +186,11 @@ metafile = true
 [[files]]
 file = "mods/pal.pw.toml"
 hash = "af409af4f628d04f3c653d3563e4d01ef3a4f72f582938017e78f4fc9278debf"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "a2c888916c629defafc7a4af782f3c1791eeb4b51427d9573ef3efeeae882175"
 metafile = true
 
 [[files]]

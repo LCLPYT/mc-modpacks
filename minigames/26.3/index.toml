@@ -43,7 +43,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "55554bc0f0370f38eea13d1cc9ef2a8cbe253f3c1b837a08e733300b478ea266"
+hash = "2b9727522c90a979eb9671ad7c5421443d91391b0697d1772146e6bfa19cb3c1"
 metafile = true
 
 [[files]]
@@ -68,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "b7bd2352fcd1ec4c6aacfdfcf801c891ddb2ec52bd44c9b541cf529bbbf0af12"
+hash = "4a2061e66de340e42c321452326670ff7164b34d76656ffe686ef14c026ccf15"
 metafile = true
 
 [[files]]
@@ -103,12 +103,17 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "1f5c464b85f8ca75424eee7d6e9d5c0a706fe787e399c2dea1071a37a27dc24d"
+hash = "3af2426b8d83a5fcda1ff6de2035d53bcff532653c196f2ea6d7647995e45131"
 metafile = true
 
 [[files]]
 file = "mods/kibu.pw.toml"
 hash = "d55d258b7bcd5d0d8658911a5b1a9b7bfaf3cd705c14dd1fd3a9e170150e42ef"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "4d8432eed6984a86acf6c9f056755b3f9082eb8fcb5b3f37e96498e7871e40c9"
 metafile = true
 
 [[files]]
@@ -118,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "d68f9ad500e062c1e3b59f25bf72416e579d18d836b104f2712464298932eca7"
+hash = "a39389e4c813b70b984a0c8aed769825b32c321ee0b9aed1151d92cb38f77357"
 metafile = true
 
 [[files]]
@@ -128,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "85475cc5c63e9e38695503a70847582ca21f8ba46f7465979d92dff22b009fd2"
+hash = "cd05db76d670773ace1184abdd46126e7b7c75c2b70da82e1764cff9544c4269"
 metafile = true
 
 [[files]]
@@ -143,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "1afa2f6df06fae8266b3548f7cc5517537a6b2f06797da4e614efda461f090c2"
+hash = "7ddded1570a6ed9ec5b9f0fa1dbce5e29896c4f00f9fa56efe09b7716bb6bf3d"
 metafile = true
 
 [[files]]
@@ -168,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "54d699d9ba85bb08b9fd3696a11c7449ea1175a118805855143e1c88fa54aa6b"
+hash = "95b014c29351598261257614a55955215bba353a93593b2050cb07da295d3302"
 metafile = true
 
 [[files]]
@@ -184,6 +189,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "7b82bfcde20d2ac0fb158c003caf5288523272ca462f519864ee424912e4e4dd"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "2eab932dd5793bbbba9959eb0924d386e0705e96d58b8f6249cd75804c713c18"
 metafile = true
 
 [[files]]

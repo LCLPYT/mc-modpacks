@@ -1,0 +1,15 @@
+name = "game-map-utils"
+filename = "game-map-utils-0.4.4+26.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/LCLPYT/game-map-utils/releases/download/0.4.4%2B26.3/game-map-utils-0.4.4%2B26.3.jar"
+hash-format = "sha256"
+hash = "b45a69f246f8131c7a1793e34b011ec4728a18eaba509d6329612bfb0cc38d5c"
+
+[update]
+[update.github]
+branch = "26.3"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "LCLPYT/game-map-utils"
+tag = "0.4.4+26.3"

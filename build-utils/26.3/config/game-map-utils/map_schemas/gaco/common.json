@@ -1,0 +1,8 @@
+{
+  "name": "Common Map",
+  "properties": {"spawn": {
+    "role": "spawn",
+    "name": "Spawn",
+    "type": "position"
+  }}
+}

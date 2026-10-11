@@ -1,0 +1,13 @@
+name = "LCLP's Builder Utils Pack"
+author = "LCLP"
+version = "1.16.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bd59a11e293e8638e72b8442ef233c26c6d6750bea6970eb3e6917ad44d3af1c"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.3"

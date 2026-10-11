@@ -1,0 +1,13 @@
+name = "DBTools for Axiom"
+filename = "DBTools-2.3.1+MC26.3-AX6.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6SWRzDjk/versions/tN2Q74i8/DBTools-2.3.1%2BMC26.3-AX6.1.3.jar"
+hash-format = "sha512"
+hash = "5693931d1352813b7c0fdeac2e7e9d3caf3b7add1cded106ed8d7488de85acee68d34564885809b35a59b2e64daef1f45db4448b64de5c780a81d97704fe9940"
+
+[update]
+[update.modrinth]
+mod-id = "6SWRzDjk"
+version = "tN2Q74i8"
